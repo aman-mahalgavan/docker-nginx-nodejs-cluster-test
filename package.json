@@ -1,0 +1,13 @@
+{
+    "name": "cluster-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "dependencies": {
+        "bluebird": "2.x",
+        "lodash": "3.x"
+    },
+    "scripts": {
+        "start": "node --harmony server.js"
+    }
+}
